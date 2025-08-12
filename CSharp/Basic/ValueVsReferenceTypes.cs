@@ -1,4 +1,6 @@
-﻿namespace Basic
+﻿using Common;
+
+namespace Basic
 {
     public class ValueVsReferenceTypes
     {

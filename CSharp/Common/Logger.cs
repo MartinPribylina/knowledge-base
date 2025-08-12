@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace Basic
+namespace Common
 {
     public static class Logger
     {
